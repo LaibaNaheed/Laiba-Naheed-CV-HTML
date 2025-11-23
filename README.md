@@ -1,4 +1,4 @@
-# 💜🌸 Laiba Naheed – Personal CV Website 🌸💜  
+# Laiba Naheed – Personal CV Website 
 
 ![HTML](https://img.shields.io/badge/Made%20With-HTML5-orange?style=for-the-badge&logo=html5)  
 ![CSS](https://img.shields.io/badge/Styled%20With-CSS3-blue?style=for-the-badge&logo=css3)  
@@ -7,14 +7,14 @@
 
 ---
 
-## ✨ About This Project  
-Welcome to my **digital CV / Resume** 🌷  
-I designed this webpage using **HTML & CSS only**, with a **soft lavender theme** 🎨, **cute layout** 🦋, and **personal touch** 🌸.  
-It’s a blend of professionalism 💼 and creativity 🎀, showcasing my **skills, education, experience, and achievements**.  
+## About This Project  
+Welcome to my **digital CV / Resume** 
+I designed this webpage using **HTML & CSS only**, with a **soft lavender theme**, **cute layout**, and **personal touch**.  
+It’s a blend of professionalism and creativity, showcasing my **skills, education, experience, and achievements**.  
 
 ---
 
-## 🌼 Features
+## Features
 💜 Lavender gradient background with custom styling  
 🌸 Profile photo & elegant two-column layout  
 🦋 Background image for a unique look  
